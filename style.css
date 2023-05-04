@@ -1,0 +1,151 @@
+body{
+    border: 8px solid yellow;
+    margin:0%;
+    height: 250vh;
+    background-size: cover;
+    background-image: url("pexels-photo-313700.webp");
+}
+.form{
+    text-align: center;
+ background-color: white;
+color: rgb(192, 31, 58);
+text-align: center;
+margin-top: -100px;
+margin-left: 800px;
+border: 5px dashed red;
+height: 800px;
+width: 400px;
+}
+.circle{
+    text-align: center;
+    background-color: aquamarine;
+    margin-top:-500px;
+    margin-left: 200px;
+    padding: 20px;
+    height: 300px;
+    width:300px;
+    border-radius: 50%;
+    position: relative;
+    text-decoration: underline;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    border:5px solid black;
+}
+.box1{
+    text-align: center;
+    border: 3px solid red;
+    background-color: black;
+    width: 350px;
+    height:50px;
+    padding: 20px;
+    padding-bottom: 40px;
+    margin:20px;
+    border-radius: 30px;
+    color:white;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+}
+.box2{
+    text-align: center;
+    border: 5px solid red;
+    background-color: black;
+    width: 350px;
+    height:50px;
+    padding: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+    position: relative;
+    top: -120px;
+    left:350px;
+    color: white;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.box3{
+    text-align: center;
+border: 5px solid red;
+background-color: black;
+width: 350px;
+height:80px;
+padding: 10px;
+padding-top: 10px;
+padding-bottom: 40px;
+position:relative;
+padding-left: 40px;
+margin-left: 1000px;
+margin-top: -200px;
+margin-bottom: 200px;
+border-radius: 30px;
+color: white;
+font-style: italic;
+font-weight: bold;
+font-size: x-large;
+   
+}
+#box4{
+    border: 5px solid red;
+    background-color: black;
+    width: 300px;
+    height: 70px;
+    margin-left: 10px;
+    border-radius: 20px;
+    color:white;
+    font-size: 20px;
+    font-style: inherit;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    margin-top: 200px;
+}
+.menuG{
+width:auto;
+display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content:space-around;
+gap:40px;
+
+}
+.menu{
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    background-color: pink;
+    text-align: center;
+    border:2px solid black;
+    width: 350px;
+    border-radius: 40px;
+    height: 250px;
+    margin: 30px;
+
+}
+.menu2{
+    width:auto;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    gap:40px;
+}
+.menu1{
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    background-color: pink;
+    text-align: center;
+    border:2px solid black;
+    width: 350px;
+    border-radius: 40px;
+    height: 250px;
+    margin: 30px;
+}
+
+
+
+
+
